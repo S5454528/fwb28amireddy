@@ -2,7 +2,7 @@
 Assisnment-10
 Heroku link: https://fwb28amireddy.herokuapp.com/
 
-Class Donuts
+Class donuts
 
 cost(number)
 quantity(number)
